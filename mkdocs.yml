@@ -1,0 +1,33 @@
+site_name: P&P PDF Reader
+site_description: A modern PDF reader and annotator for iPad
+site_url: https://YOUR_USERNAME.github.io/YOUR_REPO/
+
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+  palette:
+    - scheme: default
+      primary: white
+      accent: red
+  font:
+    text: SF Pro Display
+    code: SF Mono
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Features:
+      - Overview: features.md
+      - PDF touch regions: touch-regions.md
+  # - Support: support.md
+  # - Privacy Policy: privacy.md
+
+extra_css:
+  - stylesheets/extra.css
