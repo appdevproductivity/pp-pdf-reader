@@ -305,14 +305,6 @@
   transform: translateY(-1px);
 }
 
-.pp-feature-link h2::after {
-  content: "->";
-  display: inline-block;
-  margin-left: 0.45rem;
-  color: var(--pp-red);
-  font-size: 0.85em;
-}
-
 .pp-feature-list img {
   width: 4rem;
   height: 4rem;
@@ -321,6 +313,20 @@
 .pp-feature-list h2 {
   margin: 0 0 0.35rem;
   font-size: 1.2rem;
+}
+
+.pp-feature-link-label {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 0.45rem;
+  padding: 0.18rem 0.5rem;
+  border-radius: 999px;
+  background: var(--pp-red);
+  color: #ffffff;
+  font-size: 0.58em;
+  font-weight: 800;
+  line-height: 1.1;
+  vertical-align: middle;
 }
 
 .pp-feature-list p {

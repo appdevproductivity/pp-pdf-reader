@@ -10,7 +10,7 @@
   <a class="pp-feature-list-card pp-feature-link" href="../touch-regions/" aria-label="Open PDF touch regions details">
     <img src="../app-icon/Icon-58.png" alt="">
     <div>
-      <h2>PDF finger touch regions</h2>
+      <h2>PDF finger touch regions <span class="pp-feature-link-label">Explore feature</span></h2>
       <p>Use dedicated touch areas in the PDF to move through pages, open references, and keep reading without breaking your grip.</p>
     </div>
   </a>
