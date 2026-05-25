@@ -10,7 +10,7 @@
       
       
       
-        <link rel="canonical" href="https://YOUR_USERNAME.github.io/YOUR_REPO/contact/">
+        <link rel="canonical" href="https://pp-pdf-reader.com/contact/">
       
       
         <link rel="prev" href="../touch-regions/">
@@ -491,14 +491,10 @@
       var message = messageField.value.trim();
       var subject = "[" + topic + "] " + subjectdetail;
       var body = [
-        "Topic: " + topic,
-        "Subject: " + subjectdetail,
-        "Contact email: " + email,
-        "",
         message
       ].join("\n");
 
-      window.location.href = "mailto:appdev.productivity@gmail.com?subject=" +
+      window.location.href = "mailto:contact@pp-pdf-reader.com?subject=" +
         encodeURIComponent(subject) + "&body=" + encodeURIComponent(body);
     });
   }());
