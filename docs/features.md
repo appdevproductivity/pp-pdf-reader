@@ -18,8 +18,9 @@
   <article>
     <img src="../app-icon/Icon-80.png" alt="">
     <div>
-      <h2>Pencil Annotation Gestures</h2>
-      <p>Select text and highlights easily. Highlight colors can be labeled for organization. The text selection quick access menu lets you copy text, search online, translate, add links, add entries to the ToC, and use other tools.</p>
+      <h2>Pencil annotation gestures<span class="pp-feature-link-label">Explore feature</span></h2>
+      <p>The Pen tool is always active and ready to write on the PDF. Long-press to highlight or select text, double tap the pencil to activate the lasso, or squeeze it to activated the eraser — no menus required.*</p>
+	  <p style="font-size: 0.8em;">* Squeeze gesture requires Apple Pencil Pro.</p>
     </div>
   </article>
 
