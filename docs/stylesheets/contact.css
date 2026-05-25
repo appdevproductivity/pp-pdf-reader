@@ -1,0 +1,97 @@
+.pp-contact-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(16rem, 0.8fr);
+  gap: clamp(1rem, 4vw, 2rem);
+  align-items: start;
+  padding-bottom: clamp(2rem, 5vw, 3.5rem);
+}
+
+.pp-contact-form,
+.pp-contact-note {
+  border: 1px solid var(--pp-border);
+  border-radius: 8px;
+  background: #ffffff;
+  box-shadow: 0 14px 34px rgba(28, 32, 41, 0.07);
+}
+
+.pp-contact-form {
+  display: grid;
+  gap: 0.55rem;
+  padding: clamp(1rem, 3vw, 1.4rem);
+}
+
+.pp-contact-form label {
+  color: var(--pp-ink);
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
+.pp-contact-help {
+  margin: -0.15rem 0 0.5rem;
+  color: var(--pp-red-dark);
+  font-size: 0.82rem;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+.pp-contact-help[hidden] {
+  display: none;
+}
+
+.pp-contact-form input,
+.pp-contact-form select,
+.pp-contact-form textarea {
+  width: 100%;
+  min-height: 2.35rem;
+  margin: 0 0 0.7rem;
+  padding: 0.65rem 0.75rem;
+  border: 1px solid var(--pp-border);
+  border-radius: 8px;
+  background: #ffffff;
+  color: var(--pp-ink);
+  font: inherit;
+}
+
+.pp-contact-form textarea {
+  resize: vertical;
+  line-height: 1.5;
+}
+
+.pp-contact-form input:focus,
+.pp-contact-form select:focus,
+.pp-contact-form textarea:focus {
+  border-color: rgba(199, 25, 37, 0.55);
+  outline: 3px solid rgba(199, 25, 37, 0.12);
+}
+
+.pp-contact-form button {
+  justify-self: start;
+  margin-top: 0.15rem;
+}
+
+.pp-contact-note {
+  padding: 1.15rem;
+  background: var(--pp-paper);
+}
+
+.pp-contact-note h2 {
+  margin: 0 0 0.55rem;
+  font-size: 1.15rem;
+}
+
+.pp-contact-note p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+@media screen and (max-width: 48em) {
+  .pp-contact-layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media screen and (max-width: 34em) {
+  .pp-contact-form button {
+    width: 100%;
+  }
+}

@@ -243,11 +243,16 @@
   border-top: 1px solid var(--pp-border);
 }
 
-.pp-split p:last-child {
+.pp-split > p:last-child,
+.pp-split > div > p:first-child {
   margin: 0;
   color: #414a57;
   font-size: 1.08rem;
   line-height: 1.7;
+}
+
+.pp-section-action {
+  margin: 1rem 0 0;
 }
 
 .pp-page-header {

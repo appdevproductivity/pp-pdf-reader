@@ -26,9 +26,11 @@ nav:
   - Feature Highlights:
       - Overview: features.md
       - PDF touch regions: touch-regions.md
+  - Contact Us: contact.md
   # - Support: support.md
   # - Privacy Policy: privacy.md
 
 extra_css:
   - stylesheets/extra.css
   - stylesheets/principles.css
+  - stylesheets/contact.css
