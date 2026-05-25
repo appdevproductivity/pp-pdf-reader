@@ -16,9 +16,11 @@ theme:
   features:
     - navigation.instant
     - navigation.sections
+    - navigation.indexes
     - navigation.top
     - toc.integrate
     - search.suggest
+    - navigation.expand
     - search.highlight
 
 nav:
@@ -29,6 +31,7 @@ nav:
   - Contact Us: contact.md
   # - Support: support.md
   # - Privacy Policy: privacy.md
+
 
 extra_css:
   - stylesheets/extra.css
