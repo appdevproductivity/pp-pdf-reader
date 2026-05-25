@@ -112,6 +112,14 @@
   line-height: 1.55;
 }
 
+.pp-hero__note {
+  max-width: 36rem;
+  margin: 0.45rem 0 0;
+  color: var(--pp-muted);
+  font-size: 0.82rem;
+  line-height: 1.45;
+}
+
 .pp-hero h1 {
   font-size: clamp(1.9rem, 4.8vw, 3.05rem);
 }
@@ -179,12 +187,18 @@
   box-shadow: 0 14px 34px rgba(28, 32, 41, 0.07);
 }
 
-.pp-feature-card:nth-child(2) {
+.pp-feature-card:nth-child(2),
+.pp-feature-card:nth-child(5) {
   background: var(--pp-blue);
 }
 
-.pp-feature-card:nth-child(3) {
+.pp-feature-card:nth-child(3),
+.pp-feature-card:nth-child(6) {
   background: var(--pp-sage);
+}
+
+.pp-feature-card:nth-child(4) {
+  background: var(--pp-paper);
 }
 
 .pp-feature-card img,
@@ -209,6 +223,15 @@
 .pp-feature-card p {
   margin: 0;
   line-height: 1.55;
+}
+
+.pp-card-lines {
+  display: grid;
+  gap: 0.45rem;
+}
+
+.pp-card-lines p {
+  line-height: 1.45;
 }
 
 .pp-split {

@@ -23,7 +23,7 @@ theme:
 
 nav:
   - Home: index.md
-  - Features:
+  - Feature Highlights:
       - Overview: features.md
       - PDF touch regions: touch-regions.md
   # - Support: support.md
