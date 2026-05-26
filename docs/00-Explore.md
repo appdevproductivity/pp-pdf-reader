@@ -13,7 +13,7 @@
     </figure>
     <div>
       <p class="pp-kicker">Home view</p>
-      <h2>Start from recent PDFs, Quick Access, and file sources.</h2>
+      <h2>Import PDFs from local storage or cloud services.</h2>
       <p>See how the app organizes current documents, recent reading, external cloud files, and local files.</p>
       <span>Explore Home view</span>
     </div>
