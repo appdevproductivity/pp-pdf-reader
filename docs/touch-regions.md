@@ -2,7 +2,7 @@
   <img src="../app-icon/Icon-120.png" alt="Paper & Pencil PDF Reader app icon">
   <div>
     <p class="pp-kicker">PDF view edge regions</p>
-    <h1>Use edge regions for seamless PDF interaction.</h1>
+    <h1>Use edge regions for seamless PDF interaction using finger touch gestures.</h1>
   </div>
 </section>
 
