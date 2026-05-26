@@ -40,5 +40,15 @@
     </div>
   </a>
 
+  <a class="pp-feature-list-card pp-feature-link" href="../view-mode-and-crop-to-text/" aria-label="Open crop to text and PDF view mode details">
+    <img src="../app-icon/Icon-80.png" alt="">
+    <div>
+
+      <h2>Crop to text and Change PDF View Mode <span class="pp-feature-link-label">Explore feature</span></h2>
+      <p>Temporarily remove blank PDF margins while reading, or split the PDF view into four or six regions for comfortable reading of two-column and three-column documents.</p>
+
+    </div>
+  </a>
+
 
 </section>
