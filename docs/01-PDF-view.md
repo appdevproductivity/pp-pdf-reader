@@ -1,7 +1,7 @@
 <section class="pp-page-header">
   <img src="../app-icon/Icon-120.png" alt="Paper & Pencil PDF Reader app icon">
   <div>
-    <p class="pp-kicker">PDF View Feature Highlights</p>
+    <p class="pp-kicker">Read and Annotate Feature Highlights</p>
     <h1>Engineered to sustain deep focus and seamless reading.</h1>
   </div>
 </section>

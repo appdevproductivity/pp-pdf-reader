@@ -27,8 +27,8 @@ nav:
   - Home: index.md
   - Feature Highlights:
       - Explore: 00-Explore.md
-      - PDF view: 01-PDF-view.md
       - Home view: 02-Home-view.md
+      - Read and annotate PDFs: 01-PDF-view.md
       - Folder view: 03-Folder-view.md
       # - PDF touch regions: touch-regions.md
   - Contact Us: contact.md
