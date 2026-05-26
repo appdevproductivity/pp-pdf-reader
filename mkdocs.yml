@@ -26,8 +26,11 @@ theme:
 nav:
   - Home: index.md
   - Feature Highlights:
-      - Overview: features.md
-      - PDF touch regions: touch-regions.md
+      - Explore: 00-Explore.md
+      - PDF view: 01-PDF-view.md
+      - Home view: 02-Home-view.md
+      - Folder view: 03-Folder-view.md
+      # - PDF touch regions: touch-regions.md
   - Contact Us: contact.md
   # - Support: support.md
   # - Privacy Policy: privacy.md

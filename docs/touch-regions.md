@@ -1,8 +1,8 @@
 <section class="pp-page-header">
   <img src="../app-icon/Icon-120.png" alt="Paper & Pencil PDF Reader app icon">
   <div>
-    <p class="pp-kicker">PDF touch regions</p>
-    <h1>Tap the page edges without leaving your reading posture.</h1>
+    <p class="pp-kicker">PDF view edge regions</p>
+    <h1>Use edge regions for seamless PDF interaction.</h1>
   </div>
 </section>
 
@@ -13,11 +13,14 @@
   </article>
   <article>
     <h2>Three gestures per region</h2>
-    <p>Each region accepts tap, long press, and double tap, with one action configured for each gesture.</p>
+	<p>Every region accepts a <b>tap, long-press</b>, or <b>double-tap</b>, with unique actions configurable for each gesture.</p>
+	
   </article>
   <article>
+
     <h2>Adjustable region size</h2>
-    <p>Region sizes are configurable, so the page edges can match your grip, hand size, and reading posture.</p>
+    <p>Touch region sizes are configurable, so the page edges can match your grip, hand size, and reading posture.</p>
+
   </article>
   <article>
     <h2>Invisible while reading</h2>
@@ -46,7 +49,7 @@
         <div class="pp-region-actions">
           <p><strong>Tap:</strong> Bookmarks</p>
           <p><strong>Double tap:</strong> Show Settings</p>
-          <p><strong>Long press:</strong> Show Quick Access Files</p>
+          <p><strong>Long press:</strong> Show Quick Access and Recent files</p>
         </div>
       </article>
       <article>
@@ -92,7 +95,7 @@
       <article>
         <h2>R8</h2>
         <div class="pp-region-actions">
-          <p><strong>Tap:</strong> End of PDF</p>
+          <p><strong>Tap:</strong> Show annotations</p>
           <p><strong>Double tap:</strong> Show thumbnails</p>
           <p><strong>Long press:</strong> Sync file</p>
         </div>
@@ -107,6 +110,6 @@
     <h2>Keep the document under your hands, like paper.</h2>
   </div>
   <p>
-    The touch regions make common navigation targets available from the page margins, so you can read, highlight, and annotate without reaching for toolbars or breaking concentration.
+    The touch regions make common navigation targets available from the PDF view margins, so you can read, highlight, and annotate without reaching for toolbars or breaking concentration.
   </p>
 </section>

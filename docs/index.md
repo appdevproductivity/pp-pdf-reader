@@ -7,7 +7,7 @@
     </p>
     <div class="pp-actions">
       <a class="md-button md-button--primary pp-store-button" href="https://apps.apple.com/app/placeholder">Download on the App Store</a>
-      <a class="md-button pp-outline-button" href="features/">Explore Features</a>
+      <a class="md-button pp-outline-button" href="00-Explore/">Explore Features</a>
       <a class="md-button pp-outline-button" href="#app-design-philosophy">App Design Philosophy</a>
       <!-- <a class="md-button pp-outline-button" href="contact/">Contact Us</a> -->
       <p class="pp-hero__note" style="font-size: 0.7rem;">* Requires Apple Pencil for annotation. Apple Pencil Pro is recommended.</p>
