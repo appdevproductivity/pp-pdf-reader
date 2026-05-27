@@ -40,6 +40,16 @@
     </div>
   </a>
 
+  <a class="pp-feature-list-card pp-feature-link" href="../quick-pdf-switching/" aria-label="Open quick PDF switching details">
+    <img src="../app-icon/Icon-80.png" alt="">
+    <div>
+
+      <h2>Quick switch between PDFs <span class="pp-feature-link-label">Explore feature</span></h2>
+      <p>Switch from the current PDF to a Quick Access or Recent PDF without leaving the PDF view, then use a two-finger swipe to jump back.</p>
+
+    </div>
+  </a>
+
   <a class="pp-feature-list-card pp-feature-link" href="../view-mode-and-crop-to-text/" aria-label="Open crop to text and PDF view mode details">
     <img src="../app-icon/Icon-80.png" alt="">
     <div>
