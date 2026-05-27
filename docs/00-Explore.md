@@ -42,4 +42,16 @@
       <span>Explore PDF view</span>
     </div>
   </a>
+
+  <a class="pp-explore-card" href="../ergonomics/" aria-label="Open ergonomics feature page">
+    <figure>
+      <img src="../images/ergonomics.png" alt="iPad held in several reading and annotation postures, showing natural grips and rejected edge-only holding">
+    </figure>
+    <div>
+      <p class="pp-kicker">Ergonomics</p>
+      <h2>Hold the iPad naturally while reading, navigating, and annotating.</h2>
+      <p>See how P&amp;P PDF Reader keeps touch detection compatible with book-like grips, one-handed reading, and Pencil annotation.</p>
+      <span>Explore ergonomics</span>
+    </div>
+  </a>
 </section>

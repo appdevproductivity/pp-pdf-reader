@@ -30,6 +30,7 @@ nav:
       - Home view: 02-Home-view.md
       - Folder view: 03-Folder-view.md
       - Read and annotate PDFs: 01-PDF-view.md
+      - Ergonomics: ergonomics.md
       # - PDF touch regions: touch-regions.md
   - Contact Us: contact.md
   # - Support: support.md
