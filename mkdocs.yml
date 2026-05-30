@@ -33,8 +33,9 @@ nav:
       - Ergonomics: ergonomics.md
       # - PDF touch regions: touch-regions.md
   - Contact Us: contact.md
+  - Privacy Policy: privacy-policy.md
+  - Terms of Use: terms-of-use.md
   # - Support: support.md
-  # - Privacy Policy: privacy.md
 
 
 extra_css:

@@ -339,6 +339,29 @@
   line-height: 1.6;
 }
 
+.pp-legal-page {
+  max-width: 48rem;
+  padding-bottom: clamp(2rem, 5vw, 3.5rem);
+}
+
+.pp-legal-page p {
+  color: #414a57;
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.pp-legal-page h2 {
+  margin: 1.75rem 0 0.55rem;
+  font-size: 1.35rem;
+}
+
+.pp-legal-updated {
+  margin: 0 0 1.25rem;
+  color: var(--pp-red-dark) !important;
+  font-size: 0.82rem !important;
+  font-weight: 800;
+}
+
 .pp-touch-config {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
