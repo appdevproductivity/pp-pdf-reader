@@ -84,11 +84,11 @@
     <li>Privacy</li>
   </ul>
 
-<p>The app is designed around a single central principle: <b>keeping the reader fully immersed in the PDF content.</b> Every interaction is built to preserve focus on reading and annotating — not on navigating toolbars or menus.</p>
+<p>The app is designed around four central principles: <b>(1) a distraction-free reading and annotating experience; (2) a natural paper-and-pencil annotation flow; (3) ergonomics; and (4) privacy.</b>
 
 <p>Traditional PDF readers often divide attention between the document and layers of toolbars, buttons, and navigation panels. Even simple actions — such as highlighting text or writing handwritten notes — frequently require interacting with menus. This constant shift of attention disrupts reading flow and reduces immersion.</p>
 
-<p>This app takes a different approach: <b>interaction happens directly with the document itself.</b> The goal is to make the technology disappear, so the experience feels as immediate and focused as reading and annotating on real paper. Its interface is carefully crafted to <b>recreate the natural experience of working with paper and pencil</b>, while combining the flexibility and power of a digital workflow.</p>
+<p>This app takes a different approach: <b>interaction happens directly with the document itself.</b> Every interaction is built to preserve focus on reading and annotating — not on navigating toolbars or menus.</p> The goal is to make the technology disappear, so the experience feels as immediate and focused as reading and annotating on real paper. Its interface is carefully crafted to <b>recreate the natural experience of working with paper and pencil</b>, while combining the flexibility and power of a digital workflow.</p>
 
 <p>When a PDF is opened, the document becomes the entire workspace. Interface elements fade away, leaving only the content on screen. The Apple Pencil is immediately ready for annotation, allowing users to write, highlight, and sketch directly on the page without interrupting concentration or shifting attention away from the document toward navigation bars, toolbars, and menus.</p>
 
