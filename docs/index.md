@@ -84,7 +84,18 @@
     <li>Privacy</li>
   </ul>
 
-<p>The app is designed around four central principles: <b>(1) a distraction-free reading and annotating experience; (2) a natural paper-and-pencil annotation flow; (3) ergonomics; and (4) privacy.</b>
+<p>The app is designed around four central principles: 
+
+
+<ol>
+<b>
+    <li>Distraction-free reading and annotating experience</li>
+    <li>Natural paper-and-pencil annotation flow</li>
+    <li>Ergonomics</li>
+    <li>Privacy</li>
+</b>
+</ol>
+
 
 <p>Traditional PDF readers often divide attention between the document and layers of toolbars, buttons, and navigation panels. Even simple actions — such as highlighting text or writing handwritten notes — frequently require interacting with menus. This constant shift of attention disrupts reading flow and reduces immersion.</p>
 
