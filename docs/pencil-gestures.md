@@ -9,7 +9,7 @@
 <section class="pp-touch-config pp-pencil-basics">
   <article>
     <h2>Pen always active</h2>
-    <p>The user can start handwriting naturally on the PDF, without first choosing a tool.</p>
+    <p>Start handwriting naturally on the PDF, without first choosing a tool.</p>
   </article>
   <article>
     <h2>Double-tap to switch</h2>
@@ -103,7 +103,7 @@
     <p class="pp-kicker">Highlight text</p>
     <h2>Long-press text with Pencil to highlight or select.</h2>
     <p>
-      A Pencil long-press on text starts highlighting or text selection, depending on the user's setting. Tapping an existing highlight with Pencil opens the highlight context menu for quick actions.
+      A Pencil long-press on text starts highlighting or text selection, depending on the setting. Tapping an existing highlight with Pencil opens the highlight context menu for quick actions.
     </p>
   </div>
   <figure>
