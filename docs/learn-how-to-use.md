@@ -10,10 +10,29 @@
 </section>
 
 <section class="pp-video-gallery" aria-label="Tutorial videos">
+
   <article class="pp-video-card">
     <div class="pp-video-card__media">
       <iframe
-        src="https://www.youtube.com/embed/Jvyrk9Wu0u0"
+        src="https://www.youtube.com/embed/11CzY7eJzaQ"
+        title="P&amp;P PDF Reader import PDFs"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
+    <div class="pp-video-card__copy">
+      <p class="pp-kicker">Annotation basics</p>
+      <h2>Import PDFs and Sync to Cloud.</h2>
+      <p>
+        See how to import PDFs and keep them synced to cloud service.
+      </p>
+    </div>
+  </article>
+
+  <article class="pp-video-card">
+    <div class="pp-video-card__media">
+      <iframe
+        src="https://www.youtube.com/embed/FrHnARGOvxU"
         title="P&amp;P PDF Reader annotation basics"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen>
@@ -27,4 +46,5 @@
       </p>
     </div>
   </article>
+
 </section>
