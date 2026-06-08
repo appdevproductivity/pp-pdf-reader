@@ -26,6 +26,7 @@ theme:
 nav:
   - Home: index.md
   - Learn How to Use: learn-how-to-use.md
+  - Demo PDFs: demo-pdfs.md
   - Explore Features: 00-Explore.md
   - Feature Highlights:
       - Home view: 02-Home-view.md

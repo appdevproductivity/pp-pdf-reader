@@ -402,6 +402,69 @@
   line-height: 1.6;
 }
 
+.pp-demo-header p:not(.pp-kicker) {
+  max-width: 42rem;
+  margin: 0.9rem 0 0;
+  color: #414a57;
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+.pp-demo-pdf-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  padding-bottom: clamp(2.5rem, 6vw, 4.5rem);
+}
+
+.pp-demo-pdf-card {
+  display: flex;
+  flex-direction: column;
+  min-height: 15rem;
+  padding: 1.25rem;
+  border: 1px solid var(--pp-border);
+  border-radius: 8px;
+  background: #ffffff;
+  box-shadow: 0 14px 34px rgba(28, 32, 41, 0.07);
+}
+
+.pp-demo-pdf-card:nth-child(2) {
+  background: var(--pp-blue);
+}
+
+.pp-demo-pdf-card:nth-child(3) {
+  background: var(--pp-sage);
+}
+
+.pp-demo-pdf-card h2 {
+  margin: 0 0 0.6rem;
+  font-size: 1.28rem;
+  line-height: 1.15;
+}
+
+.pp-demo-pdf-card p:not(.pp-kicker) {
+  margin: 0;
+  color: #414a57;
+  line-height: 1.6;
+}
+
+.pp-demo-pdf-actions {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.6rem;
+  margin-top: auto;
+  padding-top: 1.2rem;
+}
+
+.pp-demo-pdf-actions .md-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  text-align: center;
+  white-space: nowrap;
+}
+
 .pp-feature-list p {
   margin: 0;
   line-height: 1.6;
@@ -1364,6 +1427,10 @@
   }
 
   .pp-video-card {
+    grid-template-columns: 1fr;
+  }
+
+  .pp-demo-pdf-grid {
     grid-template-columns: 1fr;
   }
 
