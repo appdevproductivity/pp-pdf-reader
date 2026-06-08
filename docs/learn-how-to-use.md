@@ -24,7 +24,7 @@
       <p class="pp-kicker">Annotation basics</p>
       <h2>Import PDFs and Sync to Cloud.</h2>
       <p>
-        See how to import PDFs and keep them synced to cloud service.
+        See how to import PDFs and keep them synced to a cloud service.
       </p>
     </div>
   </article>
@@ -40,7 +40,7 @@
     </div>
     <div class="pp-video-card__copy">
       <p class="pp-kicker">Annotation basics</p>
-      <h2>Read and annotate a PDF without leaving the page.</h2>
+      <h2>Read and annotate a PDF.</h2>
       <p>
         See how the app keeps the document central while you write, highlight, and move through the reading workflow.
       </p>
