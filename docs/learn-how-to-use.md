@@ -14,7 +14,7 @@
   <article class="pp-video-card">
     <div class="pp-video-card__media">
       <iframe
-        src="https://www.youtube.com/embed/11CzY7eJzaQ"
+        src="https://www.youtube.com/embed/EfNjiZ2dY-s"
         title="P&amp;P PDF Reader import PDFs"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen>
@@ -28,6 +28,45 @@
       </p>
     </div>
   </article>
+
+
+  <article class="pp-video-card">
+    <div class="pp-video-card__media">
+      <iframe
+        src="https://www.youtube.com/embed/o6DEpdrDFKM"
+        title="P&amp;PDF Navigation Part I: Edge Regions"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
+    <div class="pp-video-card__copy">
+      <p class="pp-kicker">PDF Navigation</p>
+      <h2>Navigation Part I: Edge Regions.</h2>
+      <p>
+      See how to use edge regions to navigate the PDF and perform various actions.
+      </p>
+    </div>
+  </article>
+
+  <article class="pp-video-card">
+    <div class="pp-video-card__media">
+      <iframe
+        src="https://www.youtube.com/embed/49EVycxj748"
+        title="P&amp;PDF Navigation Part II: Gestures"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
+    <div class="pp-video-card__copy">
+      <p class="pp-kicker">PDF Navigation</p>
+      <h2>Navigation Part II: Gestures.</h2>
+      <p>
+      See how to use gestures and multi-gestures to navigate the PDF and perform various actions.
+      </p>
+    </div>
+  </article>
+
+
 
   <article class="pp-video-card">
     <div class="pp-video-card__media">
