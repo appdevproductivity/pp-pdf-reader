@@ -402,6 +402,48 @@
   line-height: 1.6;
 }
 
+.pp-guide-panel {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: clamp(1rem, 3vw, 1.8rem);
+  align-items: center;
+  margin-bottom: 1.2rem;
+  padding: clamp(1rem, 3vw, 1.35rem);
+  border: 1px solid var(--pp-border);
+  border-radius: 8px;
+  background: linear-gradient(145deg, #ffffff, var(--pp-paper));
+  box-shadow: 0 14px 34px rgba(28, 32, 41, 0.07);
+}
+
+.pp-guide-panel h2 {
+  margin: 0 0 0.55rem;
+  font-size: clamp(1.25rem, 3vw, 1.7rem);
+  line-height: 1.12;
+}
+
+.pp-guide-panel p:not(.pp-kicker) {
+  max-width: 42rem;
+  margin: 0;
+  color: #414a57;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.pp-guide-actions {
+  display: grid;
+  gap: 0.6rem;
+  min-width: 12rem;
+}
+
+.pp-guide-actions .md-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  text-align: center;
+  white-space: nowrap;
+}
+
 .pp-demo-header p:not(.pp-kicker) {
   max-width: 42rem;
   margin: 0.9rem 0 0;
@@ -1428,6 +1470,14 @@
 
   .pp-video-card {
     grid-template-columns: 1fr;
+  }
+
+  .pp-guide-panel {
+    grid-template-columns: 1fr;
+  }
+
+  .pp-guide-actions {
+    min-width: 0;
   }
 
   .pp-demo-pdf-grid {

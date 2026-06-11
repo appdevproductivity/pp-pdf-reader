@@ -9,6 +9,20 @@
   </div>
 </section>
 
+<section class="pp-guide-panel" aria-label="User Guide">
+  <div>
+    <p class="pp-kicker">User Guide</p>
+    <h2>P&amp;P PDF Reader User Guide</h2>
+    <p>
+      Open the full user guide in the browser, or download it and keep it with your demo PDFs while learning the app.
+    </p>
+  </div>
+  <div class="pp-guide-actions">
+    <a class="md-button md-button--primary" href="../images/PP-PDF-Reader-User-Guide.pdf" target="_blank" rel="noopener">Open PDF</a>
+    <a class="md-button pp-outline-button" href="../images/PP-PDF-Reader-User-Guide.pdf" download>Download</a>
+  </div>
+</section>
+
 <section class="pp-video-gallery" aria-label="Tutorial videos">
 
   <article class="pp-video-card">
